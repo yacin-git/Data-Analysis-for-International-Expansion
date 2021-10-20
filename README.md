@@ -13,10 +13,6 @@ The key questions we wish to explore are:
 * In which countries should the start-up prioritize its activities ?
 
 ## Steps of the analysis
-1- Description of the dataset
-2- Selection of relevant indicators
-3- Selection of high potential countries
-
-
-
-<a href="https://share.streamlit.io/yacin-git/home-credit-scoring/main/app.py"><img src="https://i.ibb.co/pdFK3Bg/Capture.jpg" alt="Go to the Dashboard" border="0"></a>
+1- Description of the dataset <br/>
+2- Selection of relevant indicators <br/>
+3- Selection of high potential countries <br/>
