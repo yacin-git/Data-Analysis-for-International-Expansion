@@ -16,3 +16,12 @@ The key questions we wish to explore are:
 1- Description of the dataset <br/>
 2- Selection of relevant indicators <br/>
 3- Selection of high potential countries <br/>
+4- Evolution of these high potential countries <br/>
+5- Countries in which the start-up must operate in priority <br/>
+
+
+## Conclusion of the analysis
+*Evolution E&U internet = Percentage change in the number of high school and university students using the internet by country (between 2010 and 2014) <br/>
+Evolution RNB = Percentage change in Gross National Income per capita by country <br/>*
+
+<img src="https://i.ibb.co/TkxCzYy/conclusion.jpg" alt="Conclusion" border="0">
